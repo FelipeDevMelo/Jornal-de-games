@@ -1,0 +1,32 @@
+[
+  {
+    "id": "final-fantasy-vii-rebirth",
+    "status": "Finished",
+    "title": "Final Fantasy VII Rebirth",
+    "platform": "PC",
+    "finishedDate": "2026-01-15",
+    "personalScore": 5,
+    "image": "final-fantasy-vii-rebirth-20240215200951.webp",
+    "review": {
+      "technicalLens": {
+        "coreLoop": "This loop engages the player until the very end of the game. Rewards for side quests often pivot toward world-building and character development rather than just material gains.",
+        "levelDesign": "Exploration follows an open-zone structure. Moving from point A to B involves engaging with points of interest and map synchronization. While the information density in each region assists casual players, it can feel overwhelming for those who prefer a less cluttered UI.",
+        "systemicSynergy": "The game features a standard loop of exploration, side quests, and cinematics. However, the narrative urgency eventually creates friction with the open-world exploration, making side content feel tangential.",
+        "balanceDifficulty": "As with every RPG, you must level up and manage your party composition. However, the introduction of new mechanics via text overlays tends to break the flow of combat."
+      },
+      "playersSoul": {
+        "gameFeel": "While the VFX are polished, the combat feedback feels inconsistent due to a lack of enemy hit-stun, while the player is frequently subjected to knockdown loops.",
+        "narrativeRhythm": "The narrative keeps the player engaged; however, the padding—where characters engage in leisure activities while the antagonist progresses—diminishes the stakes, resulting in ludonarrative dissonance. Conversely, the character interactions during exploration remain a highlight.",
+        "ludonarrativeHarmony": "Cloud’s fractured psyche aligns with the gameplay; fighting monsters while seeking Sephiroth is cohesive with his role as a former Soldier."
+      },
+      "culturalContext": {
+        "writingStyle": "The game utilizes contemporary dialogue, which complements its steampunk setting.",
+        "standoutLines": "“Not interested.”"
+      },
+      "gameDevVerdict": {
+        "goldenTicket": "The piano minigame is a standout diegetic mechanic. I would implement similar skill-based interactions to increase immersion in future projects.",
+        "bugReport": "To optimize narrative tension, I would front-load the open-world sandbox elements and gradually restrict the gameplay loop to a more linear, high-stakes path as the story reaches its climax."
+      }
+    }
+  }
+]
