@@ -1,5 +1,4 @@
 import gamesData from "@/app/data/games.json";
-import { Gaegu } from "next/font/google";
 
 interface GamePageProps {
   params: Promise<{
@@ -26,11 +25,11 @@ export default async function GamePage({ params }: GamePageProps) {
 
       <section className="grid grid-cols-2 gap-6 mt-12 ">
         <div className="text-emerald-950 p-3 bg-emerald-100 rounded-lg border-emerald-200 border-2">
-          <h3>Bug report</h3>
+          <h3 className="font-bold">Bug report</h3>
           <p>{game.review.gameDevVerdict.bugReport}</p>
         </div>
         <div className="text-amber-950 p-3 bg-amber-100 rounded-lg border-amber-200 border-2">
-          <h3>Golden ticket</h3>
+          <h3 className="font-bold">Golden ticket</h3>
           <p>{game.review.gameDevVerdict.goldenTicket}</p>
         </div>
       </section>
